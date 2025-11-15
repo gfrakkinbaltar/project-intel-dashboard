@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2025-11-14T20:54:05.550032",
+  "scanned_at": "2025-11-15T15:05:11.419096",
   "root_dir": "/home/gaius/AI-Development",
   "total_projects": 29,
   "projects": [
@@ -10,12 +10,13 @@
       "stack": [
         "react",
         "typescript",
+        "docker",
         "tailwind",
         "flask"
       ],
       "files": [],
-      "size": 181550777,
-      "last_modified": "2025-11-14T20:51:33.981281",
+      "size": 181576415,
+      "last_modified": "2025-11-15T01:27:31.621573",
       "has_git": true,
       "has_readme": true,
       "health_score": 90,
@@ -32,13 +33,30 @@
         "typescript"
       ],
       "files": [],
-      "size": 358217,
+      "size": 358319,
       "last_modified": "2025-11-14T20:51:34.009852",
       "has_git": true,
       "has_readme": true,
       "health_score": 90,
       "package_name": "my-v0-project",
       "version": "0.1.0"
+    },
+    {
+      "name": "Personal Digital Declutter Assistant (PDDA)",
+      "path": "/home/gaius/AI-Development/Personal Digital Declutter Assistant (PDDA)",
+      "type": "react_app",
+      "stack": [
+        "react",
+        "typescript"
+      ],
+      "files": [],
+      "size": 211406,
+      "last_modified": "2025-11-14T20:53:54.945451",
+      "has_git": true,
+      "has_readme": true,
+      "health_score": 90,
+      "package_name": "pdda",
+      "version": "1.0.0"
     },
     {
       "name": "Qwen 480b webapps",
@@ -49,7 +67,7 @@
         "typescript"
       ],
       "files": [],
-      "size": 5612598,
+      "size": 5612711,
       "last_modified": "2025-11-14T20:53:54.807444",
       "has_git": true,
       "has_readme": true,
@@ -66,7 +84,7 @@
         "typescript"
       ],
       "files": [],
-      "size": 31578283,
+      "size": 31578397,
       "last_modified": "2025-11-14T20:53:54.822445",
       "has_git": true,
       "has_readme": true,
@@ -81,11 +99,12 @@
       "stack": [
         "nextjs",
         "react",
-        "typescript"
+        "typescript",
+        "docker"
       ],
       "files": [],
-      "size": 845047677,
-      "last_modified": "2025-11-14T20:03:36.869776",
+      "size": 1160676313,
+      "last_modified": "2025-11-15T13:09:24.326899",
       "has_git": true,
       "has_readme": true,
       "health_score": 90,
@@ -101,7 +120,7 @@
         "python"
       ],
       "files": [],
-      "size": 58877887,
+      "size": 58878001,
       "last_modified": "2025-11-14T20:52:47.334806",
       "has_git": true,
       "has_readme": true,
@@ -116,11 +135,12 @@
       "stack": [
         "nextjs",
         "react",
-        "typescript"
+        "typescript",
+        "docker"
       ],
       "files": [],
-      "size": 2183417,
-      "last_modified": "2025-11-14T20:51:34.894340",
+      "size": 2187894,
+      "last_modified": "2025-11-15T01:28:24.188921",
       "has_git": true,
       "has_readme": true,
       "health_score": 90,
@@ -136,12 +156,47 @@
         "typescript"
       ],
       "files": [],
-      "size": 199632945,
+      "size": 199633055,
       "last_modified": "2025-11-14T20:53:54.831445",
       "has_git": true,
       "has_readme": true,
       "health_score": 90,
       "package_name": "1-v0-clone",
+      "version": "1.0.0"
+    },
+    {
+      "name": "5th-ave-storefront",
+      "path": "/home/gaius/AI-Development/5th-ave-storefront",
+      "type": "nextjs_app",
+      "stack": [
+        "nextjs",
+        "react",
+        "typescript"
+      ],
+      "files": [],
+      "size": 4685674,
+      "last_modified": "2025-11-15T01:30:34.504741",
+      "has_git": true,
+      "has_readme": true,
+      "health_score": 90,
+      "package_name": "my-v0-project",
+      "version": "0.1.0"
+    },
+    {
+      "name": "Essene Calendar",
+      "path": "/home/gaius/AI-Development/Essene Calendar",
+      "type": "python_package",
+      "stack": [
+        "react",
+        "python"
+      ],
+      "files": [],
+      "size": 687341344,
+      "last_modified": "2025-11-15T14:38:32.538981",
+      "has_git": true,
+      "has_readme": true,
+      "health_score": 90,
+      "package_name": "essene-calender",
       "version": "1.0.0"
     },
     {
@@ -153,7 +208,7 @@
         "typescript"
       ],
       "files": [],
-      "size": 1035093,
+      "size": 1035202,
       "last_modified": "2025-11-14T20:53:54.840446",
       "has_git": true,
       "has_readme": true,
@@ -167,32 +222,16 @@
       "type": "react_app",
       "stack": [
         "react",
-        "typescript"
+        "typescript",
+        "docker"
       ],
       "files": [],
-      "size": 109710,
-      "last_modified": "2025-11-14T20:03:46.257232",
+      "size": 112379,
+      "last_modified": "2025-11-14T20:55:05.644192",
       "has_git": true,
       "has_readme": true,
       "health_score": 90,
       "package_name": "saas-boilerplate",
-      "version": "1.0.0"
-    },
-    {
-      "name": "Essene Calender",
-      "path": "/home/gaius/AI-Development/Essene Calender",
-      "type": "python_package",
-      "stack": [
-        "react",
-        "python"
-      ],
-      "files": [],
-      "size": 92941536,
-      "last_modified": "2025-11-14T20:52:47.350807",
-      "has_git": true,
-      "has_readme": true,
-      "health_score": 90,
-      "package_name": "essene-calender",
       "version": "1.0.0"
     },
     {
@@ -204,7 +243,7 @@
         "typescript"
       ],
       "files": [],
-      "size": 61633,
+      "size": 61748,
       "last_modified": "2025-11-14T20:53:54.849446",
       "has_git": true,
       "has_readme": true,
@@ -217,14 +256,15 @@
       "path": "/home/gaius/AI-Development/property_management_app",
       "type": "react_app",
       "stack": [
-        "react"
+        "react",
+        "docker"
       ],
       "files": [],
-      "size": 126461,
-      "last_modified": "2025-11-14T20:03:50.211445",
+      "size": 129642,
+      "last_modified": "2025-11-14T20:55:05.633198",
       "has_git": true,
       "has_readme": true,
-      "health_score": 90,
+      "health_score": 100,
       "package_name": "tech-enabled-property-management",
       "version": "1.0.0"
     },
@@ -237,7 +277,7 @@
         "typescript"
       ],
       "files": [],
-      "size": 11449765,
+      "size": 11450246,
       "last_modified": "2025-11-14T20:53:54.858447",
       "has_git": true,
       "has_readme": true,
@@ -252,11 +292,12 @@
       "stack": [
         "nextjs",
         "react",
-        "typescript"
+        "typescript",
+        "docker"
       ],
       "files": [],
-      "size": 888581341,
-      "last_modified": "2025-11-14T20:03:54.547679",
+      "size": 888585706,
+      "last_modified": "2025-11-14T20:55:05.655208",
       "has_git": true,
       "has_readme": true,
       "health_score": 90,
@@ -272,7 +313,7 @@
         "typescript"
       ],
       "files": [],
-      "size": 32259882,
+      "size": 32259992,
       "last_modified": "2025-11-14T20:53:54.867447",
       "has_git": true,
       "has_readme": true,
@@ -288,7 +329,7 @@
         "react"
       ],
       "files": [],
-      "size": 169798107,
+      "size": 169798223,
       "last_modified": "2025-11-14T20:03:59.327936",
       "has_git": true,
       "has_readme": true,
@@ -305,13 +346,31 @@
         "typescript"
       ],
       "files": [],
-      "size": 9660953,
+      "size": 9661054,
       "last_modified": "2025-11-14T20:53:54.877448",
       "has_git": true,
       "has_readme": true,
       "health_score": 90,
       "package_name": "nexus",
       "version": "1.0.0"
+    },
+    {
+      "name": "revstudios",
+      "path": "/home/gaius/AI-Development/revstudios",
+      "type": "nextjs_app",
+      "stack": [
+        "nextjs",
+        "react",
+        "typescript"
+      ],
+      "files": [],
+      "size": 1484609,
+      "last_modified": "2025-11-15T01:32:05.160790",
+      "has_git": true,
+      "has_readme": true,
+      "health_score": 90,
+      "package_name": "my-v0-project",
+      "version": "0.1.0"
     },
     {
       "name": "Unbranded",
@@ -323,7 +382,7 @@
         "typescript"
       ],
       "files": [],
-      "size": 694192789,
+      "size": 694192894,
       "last_modified": "2025-11-14T20:51:38.002068",
       "has_git": true,
       "has_readme": true,
@@ -340,49 +399,13 @@
         "docker"
       ],
       "files": [],
-      "size": 287497410,
+      "size": 287497514,
       "last_modified": "2025-11-14T20:51:38.215079",
       "has_git": true,
       "has_readme": true,
       "health_score": 90,
       "package_name": "v0-clone",
       "version": "1.0.0"
-    },
-    {
-      "name": "5th Ave Storefront",
-      "path": "/home/gaius/AI-Development/5th Ave Storefront",
-      "type": "nextjs_app",
-      "stack": [
-        "nextjs",
-        "react",
-        "typescript"
-      ],
-      "files": [],
-      "size": 4684917,
-      "last_modified": "2025-11-14T20:51:38.262431",
-      "has_git": true,
-      "has_readme": true,
-      "health_score": 90,
-      "package_name": "my-v0-project",
-      "version": "0.1.0"
-    },
-    {
-      "name": "RevStudios",
-      "path": "/home/gaius/AI-Development/RevStudios",
-      "type": "nextjs_app",
-      "stack": [
-        "nextjs",
-        "react",
-        "typescript"
-      ],
-      "files": [],
-      "size": 1483868,
-      "last_modified": "2025-11-14T20:51:38.414612",
-      "has_git": true,
-      "has_readme": true,
-      "health_score": 90,
-      "package_name": "my-v0-project",
-      "version": "0.1.0"
     },
     {
       "name": "Ai-Powered Content",
@@ -393,7 +416,7 @@
         "typescript"
       ],
       "files": [],
-      "size": 7844522,
+      "size": 7844636,
       "last_modified": "2025-11-14T20:53:54.886448",
       "has_git": true,
       "has_readme": true,
@@ -410,7 +433,7 @@
         "typescript"
       ],
       "files": [],
-      "size": 7978378,
+      "size": 7978855,
       "last_modified": "2025-11-14T20:53:54.896449",
       "has_git": true,
       "has_readme": true,
@@ -426,11 +449,12 @@
         "nextjs",
         "react",
         "typescript",
+        "docker",
         "tailwind"
       ],
       "files": [],
-      "size": 189979,
-      "last_modified": "2025-11-14T20:51:38.844113",
+      "size": 194449,
+      "last_modified": "2025-11-15T01:29:00.302534",
       "has_git": true,
       "has_readme": true,
       "health_score": 90,
@@ -446,13 +470,25 @@
         "typescript"
       ],
       "files": [],
-      "size": 74345,
+      "size": 74461,
       "last_modified": "2025-11-14T20:53:54.906449",
       "has_git": true,
       "has_readme": true,
       "health_score": 90,
       "package_name": "deep_essene_calendar",
       "version": "1.0.0"
+    },
+    {
+      "name": "The Two Ways",
+      "path": "/home/gaius/AI-Development/The Two Ways",
+      "type": "project",
+      "stack": [],
+      "files": [],
+      "size": 360191532,
+      "last_modified": "2025-11-15T14:29:24.272179",
+      "has_git": false,
+      "has_readme": false,
+      "health_score": 50
     },
     {
       "name": "v0kimik2",
@@ -463,46 +499,12 @@
         "typescript"
       ],
       "files": [],
-      "size": 91423749,
+      "size": 91423853,
       "last_modified": "2025-11-14T20:53:54.915450",
       "has_git": true,
       "has_readme": true,
       "health_score": 90,
       "package_name": "v0kimik2",
-      "version": "1.0.0"
-    },
-    {
-      "name": "the-two-ways-curriculum",
-      "path": "/home/gaius/AI-Development/the-two-ways-curriculum",
-      "type": "react_app",
-      "stack": [
-        "react",
-        "typescript"
-      ],
-      "files": [],
-      "size": 71495,
-      "last_modified": "2025-11-14T20:53:54.936451",
-      "has_git": true,
-      "has_readme": true,
-      "health_score": 90,
-      "package_name": "the-two-ways-curriculum",
-      "version": "1.0.0"
-    },
-    {
-      "name": "pdda",
-      "path": "/home/gaius/AI-Development/pdda",
-      "type": "react_app",
-      "stack": [
-        "react",
-        "typescript"
-      ],
-      "files": [],
-      "size": 211306,
-      "last_modified": "2025-11-14T20:53:54.945451",
-      "has_git": true,
-      "has_readme": true,
-      "health_score": 90,
-      "package_name": "pdda",
       "version": "1.0.0"
     }
   ]

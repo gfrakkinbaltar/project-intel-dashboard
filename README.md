@@ -1,6 +1,15 @@
 # 🚀 Project Intelligence Dashboard
 
+![React](https://img.shields.io/badge/React-18-blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)
+![Flask](https://img.shields.io/badge/Flask-3-green)
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+
 **A real-time DevOps command center for monitoring and analyzing all your projects.**
+
+## 🌐 Live Demo
+
+**[View Demo](https://project-intel-dashboard.vercel.app)** | **[View on Portfolio](https://gai7us.vercel.app/portfolio)**
 
 ## What It Does
 

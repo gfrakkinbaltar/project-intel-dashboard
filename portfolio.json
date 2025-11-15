@@ -1,0 +1,629 @@
+{
+  "generated_at": "2025-11-14T20:55:58.702525",
+  "total_projects": 29,
+  "categories": [
+    "Full-Stack",
+    "Frontend"
+  ],
+  "featured_count": 9,
+  "projects": [
+    {
+      "id": "project-intel-dashboard",
+      "title": "project-intel-dashboard",
+      "description": "Professional flask app built with modern technologies.",
+      "category": "Frontend",
+      "tags": [
+        "React",
+        "TypeScript",
+        "Tailwind CSS",
+        "Flask"
+      ],
+      "github": "https://github.com/gaius/project-intel-dashboard",
+      "demo": null,
+      "image": "/projects/project-intel-dashboard.png",
+      "featured": true,
+      "status": "completed",
+      "year": 2025,
+      "metrics": {
+        "health_score": 90,
+        "tech_count": 4,
+        "size_mb": 173.14
+      }
+    },
+    {
+      "id": "5th-ave-storefront",
+      "title": "5th Ave Storefront",
+      "description": "Professional nextjs app built with modern technologies.",
+      "category": "Full-Stack",
+      "tags": [
+        "Next.js",
+        "React",
+        "TypeScript"
+      ],
+      "github": "https://github.com/gaius/5th-ave-storefront",
+      "demo": null,
+      "image": "/projects/5th-ave-storefront.png",
+      "featured": true,
+      "status": "completed",
+      "year": 2025,
+      "metrics": {
+        "health_score": 90,
+        "tech_count": 3,
+        "size_mb": 4.47
+      }
+    },
+    {
+      "id": "elite-e-commerce-platform",
+      "title": "Elite E-Commerce Platform",
+      "description": "Professional nextjs app built with modern technologies.",
+      "category": "Full-Stack",
+      "tags": [
+        "Next.js",
+        "React",
+        "TypeScript"
+      ],
+      "github": "https://github.com/gaius/elite-e-commerce-platform",
+      "demo": null,
+      "image": "/projects/elite-e-commerce-platform.png",
+      "featured": true,
+      "status": "completed",
+      "year": 2025,
+      "metrics": {
+        "health_score": 90,
+        "tech_count": 3,
+        "size_mb": 2.08
+      }
+    },
+    {
+      "id": "gai7us",
+      "title": "GAI7US",
+      "description": "Professional nextjs app built with modern technologies.",
+      "category": "Full-Stack",
+      "tags": [
+        "Next.js",
+        "React",
+        "TypeScript"
+      ],
+      "github": "https://github.com/gaius/gai7us",
+      "demo": null,
+      "image": "/projects/gai7us.png",
+      "featured": true,
+      "status": "completed",
+      "year": 2025,
+      "metrics": {
+        "health_score": 90,
+        "tech_count": 3,
+        "size_mb": 805.9
+      }
+    },
+    {
+      "id": "revstudios",
+      "title": "RevStudios",
+      "description": "Professional nextjs app built with modern technologies.",
+      "category": "Full-Stack",
+      "tags": [
+        "Next.js",
+        "React",
+        "TypeScript"
+      ],
+      "github": "https://github.com/gaius/revstudios",
+      "demo": null,
+      "image": "/projects/revstudios.png",
+      "featured": true,
+      "status": "completed",
+      "year": 2025,
+      "metrics": {
+        "health_score": 90,
+        "tech_count": 3,
+        "size_mb": 1.42
+      }
+    },
+    {
+      "id": "unbranded",
+      "title": "Unbranded",
+      "description": "Professional nextjs app built with modern technologies.",
+      "category": "Full-Stack",
+      "tags": [
+        "Next.js",
+        "React",
+        "TypeScript"
+      ],
+      "github": "https://github.com/gaius/unbranded",
+      "demo": null,
+      "image": "/projects/unbranded.png",
+      "featured": true,
+      "status": "completed",
+      "year": 2025,
+      "metrics": {
+        "health_score": 90,
+        "tech_count": 3,
+        "size_mb": 662.03
+      }
+    },
+    {
+      "id": "life-tracker",
+      "title": "life-tracker",
+      "description": "Professional nextjs app built with modern technologies.",
+      "category": "Full-Stack",
+      "tags": [
+        "Next.js",
+        "React",
+        "TypeScript",
+        "Tailwind CSS"
+      ],
+      "github": "https://github.com/gaius/life-tracker",
+      "demo": null,
+      "image": "/projects/life-tracker.png",
+      "featured": true,
+      "status": "completed",
+      "year": 2025,
+      "metrics": {
+        "health_score": 90,
+        "tech_count": 4,
+        "size_mb": 0.18
+      }
+    },
+    {
+      "id": "self-actualization-platform",
+      "title": "self-actualization-platform",
+      "description": "Professional nextjs app built with modern technologies.",
+      "category": "Full-Stack",
+      "tags": [
+        "Next.js",
+        "React",
+        "TypeScript"
+      ],
+      "github": "https://github.com/gaius/self-actualization-platform",
+      "demo": null,
+      "image": "/projects/self-actualization-platform.png",
+      "featured": true,
+      "status": "completed",
+      "year": 2025,
+      "metrics": {
+        "health_score": 90,
+        "tech_count": 3,
+        "size_mb": 847.42
+      }
+    },
+    {
+      "id": "v0logo",
+      "title": "v0logo",
+      "description": "Professional nextjs app built with modern technologies.",
+      "category": "Full-Stack",
+      "tags": [
+        "Next.js",
+        "React",
+        "TypeScript"
+      ],
+      "github": "https://github.com/gaius/v0logo",
+      "demo": null,
+      "image": "/projects/v0logo.png",
+      "featured": true,
+      "status": "completed",
+      "year": 2025,
+      "metrics": {
+        "health_score": 90,
+        "tech_count": 3,
+        "size_mb": 0.34
+      }
+    },
+    {
+      "id": "essene-calender",
+      "title": "Essene Calender",
+      "description": "Professional python package built with modern technologies.",
+      "category": "Frontend",
+      "tags": [
+        "React",
+        "Python"
+      ],
+      "github": "https://github.com/gaius/essene-calender",
+      "demo": null,
+      "image": "/projects/essene-calender.png",
+      "featured": false,
+      "status": "completed",
+      "year": 2025,
+      "metrics": {
+        "health_score": 90,
+        "tech_count": 2,
+        "size_mb": 88.64
+      }
+    },
+    {
+      "id": "nexus-storytelling",
+      "title": "nexus-storytelling",
+      "description": "Professional python package built with modern technologies.",
+      "category": "Frontend",
+      "tags": [
+        "React",
+        "Python"
+      ],
+      "github": "https://github.com/gaius/nexus-storytelling",
+      "demo": null,
+      "image": "/projects/nexus-storytelling.png",
+      "featured": false,
+      "status": "completed",
+      "year": 2025,
+      "metrics": {
+        "health_score": 90,
+        "tech_count": 2,
+        "size_mb": 56.15
+      }
+    },
+    {
+      "id": "ai-powered-content",
+      "title": "Ai-Powered Content",
+      "description": "Professional react app built with modern technologies.",
+      "category": "Frontend",
+      "tags": [
+        "React",
+        "TypeScript"
+      ],
+      "github": "https://github.com/gaius/ai-powered-content",
+      "demo": null,
+      "image": "/projects/ai-powered-content.png",
+      "featured": false,
+      "status": "completed",
+      "year": 2025,
+      "metrics": {
+        "health_score": 90,
+        "tech_count": 2,
+        "size_mb": 7.48
+      }
+    },
+    {
+      "id": "anti-fragile-crm",
+      "title": "Anti-Fragile CRM",
+      "description": "Professional react app built with modern technologies.",
+      "category": "Frontend",
+      "tags": [
+        "React",
+        "TypeScript"
+      ],
+      "github": "https://github.com/gaius/anti-fragile-crm",
+      "demo": null,
+      "image": "/projects/anti-fragile-crm.png",
+      "featured": false,
+      "status": "completed",
+      "year": 2025,
+      "metrics": {
+        "health_score": 90,
+        "tech_count": 2,
+        "size_mb": 10.92
+      }
+    },
+    {
+      "id": "brand-identity",
+      "title": "Brand Identity",
+      "description": "Professional react app built with modern technologies.",
+      "category": "Frontend",
+      "tags": [
+        "React",
+        "TypeScript"
+      ],
+      "github": "https://github.com/gaius/brand-identity",
+      "demo": null,
+      "image": "/projects/brand-identity.png",
+      "featured": false,
+      "status": "completed",
+      "year": 2025,
+      "metrics": {
+        "health_score": 90,
+        "tech_count": 2,
+        "size_mb": 7.61
+      }
+    },
+    {
+      "id": "gpt-120b-apps",
+      "title": "GPT 120b apps",
+      "description": "Professional react app built with modern technologies.",
+      "category": "Frontend",
+      "tags": [
+        "React",
+        "TypeScript"
+      ],
+      "github": "https://github.com/gaius/gpt-120b-apps",
+      "demo": null,
+      "image": "/projects/gpt-120b-apps.png",
+      "featured": false,
+      "status": "completed",
+      "year": 2025,
+      "metrics": {
+        "health_score": 90,
+        "tech_count": 2,
+        "size_mb": 0.99
+      }
+    },
+    {
+      "id": "portfoliocraft",
+      "title": "PortfolioCraft",
+      "description": "Professional react app built with modern technologies.",
+      "category": "Frontend",
+      "tags": [
+        "React",
+        "TypeScript"
+      ],
+      "github": "https://github.com/gaius/portfoliocraft",
+      "demo": null,
+      "image": "/projects/portfoliocraft.png",
+      "featured": false,
+      "status": "completed",
+      "year": 2025,
+      "metrics": {
+        "health_score": 90,
+        "tech_count": 2,
+        "size_mb": 30.77
+      }
+    },
+    {
+      "id": "portfolio_showcase",
+      "title": "Portfolio_Showcase",
+      "description": "Professional react app built with modern technologies.",
+      "category": "Frontend",
+      "tags": [
+        "React",
+        "TypeScript"
+      ],
+      "github": "https://github.com/gaius/portfolio_showcase",
+      "demo": null,
+      "image": "/projects/portfolio_showcase.png",
+      "featured": false,
+      "status": "completed",
+      "year": 2025,
+      "metrics": {
+        "health_score": 90,
+        "tech_count": 2,
+        "size_mb": 30.12
+      }
+    },
+    {
+      "id": "qwen-480b-webapps",
+      "title": "Qwen 480b webapps",
+      "description": "Professional react app built with modern technologies.",
+      "category": "Frontend",
+      "tags": [
+        "React",
+        "TypeScript"
+      ],
+      "github": "https://github.com/gaius/qwen-480b-webapps",
+      "demo": null,
+      "image": "/projects/qwen-480b-webapps.png",
+      "featured": false,
+      "status": "completed",
+      "year": 2025,
+      "metrics": {
+        "health_score": 90,
+        "tech_count": 2,
+        "size_mb": 5.35
+      }
+    },
+    {
+      "id": "deep_essene_calendar",
+      "title": "deep_essene_calendar",
+      "description": "Professional react app built with modern technologies.",
+      "category": "Frontend",
+      "tags": [
+        "React",
+        "TypeScript"
+      ],
+      "github": "https://github.com/gaius/deep_essene_calendar",
+      "demo": null,
+      "image": "/projects/deep_essene_calendar.png",
+      "featured": false,
+      "status": "completed",
+      "year": 2025,
+      "metrics": {
+        "health_score": 90,
+        "tech_count": 2,
+        "size_mb": 0.07
+      }
+    },
+    {
+      "id": "knowledge-graph-mvp",
+      "title": "knowledge-graph-mvp",
+      "description": "Professional react app built with modern technologies.",
+      "category": "Frontend",
+      "tags": [
+        "React",
+        "TypeScript"
+      ],
+      "github": "https://github.com/gaius/knowledge-graph-mvp",
+      "demo": null,
+      "image": "/projects/knowledge-graph-mvp.png",
+      "featured": false,
+      "status": "completed",
+      "year": 2025,
+      "metrics": {
+        "health_score": 90,
+        "tech_count": 2,
+        "size_mb": 0.06
+      }
+    },
+    {
+      "id": "missionconnect",
+      "title": "missionconnect",
+      "description": "Professional react app built with modern technologies.",
+      "category": "Frontend",
+      "tags": [
+        "React",
+        "TypeScript"
+      ],
+      "github": "https://github.com/gaius/missionconnect",
+      "demo": null,
+      "image": "/projects/missionconnect.png",
+      "featured": false,
+      "status": "completed",
+      "year": 2025,
+      "metrics": {
+        "health_score": 90,
+        "tech_count": 2,
+        "size_mb": 190.38
+      }
+    },
+    {
+      "id": "nexus",
+      "title": "nexus",
+      "description": "Professional react app built with modern technologies.",
+      "category": "Frontend",
+      "tags": [
+        "React",
+        "TypeScript"
+      ],
+      "github": "https://github.com/gaius/nexus",
+      "demo": null,
+      "image": "/projects/nexus.png",
+      "featured": false,
+      "status": "completed",
+      "year": 2025,
+      "metrics": {
+        "health_score": 90,
+        "tech_count": 2,
+        "size_mb": 9.21
+      }
+    },
+    {
+      "id": "pdda",
+      "title": "pdda",
+      "description": "Professional react app built with modern technologies.",
+      "category": "Frontend",
+      "tags": [
+        "React",
+        "TypeScript"
+      ],
+      "github": "https://github.com/gaius/pdda",
+      "demo": null,
+      "image": "/projects/pdda.png",
+      "featured": false,
+      "status": "completed",
+      "year": 2025,
+      "metrics": {
+        "health_score": 90,
+        "tech_count": 2,
+        "size_mb": 0.2
+      }
+    },
+    {
+      "id": "property_management_app",
+      "title": "property_management_app",
+      "description": "Professional react app built with modern technologies.",
+      "category": "Frontend",
+      "tags": [
+        "React"
+      ],
+      "github": "https://github.com/gaius/property_management_app",
+      "demo": null,
+      "image": "/projects/property_management_app.png",
+      "featured": false,
+      "status": "completed",
+      "year": 2025,
+      "metrics": {
+        "health_score": 90,
+        "tech_count": 1,
+        "size_mb": 0.12
+      }
+    },
+    {
+      "id": "saas-boilerplate",
+      "title": "saas-boilerplate",
+      "description": "Professional react app built with modern technologies.",
+      "category": "Frontend",
+      "tags": [
+        "React",
+        "TypeScript"
+      ],
+      "github": "https://github.com/gaius/saas-boilerplate",
+      "demo": null,
+      "image": "/projects/saas-boilerplate.png",
+      "featured": false,
+      "status": "completed",
+      "year": 2025,
+      "metrics": {
+        "health_score": 90,
+        "tech_count": 2,
+        "size_mb": 0.1
+      }
+    },
+    {
+      "id": "the-two-ways-curriculum",
+      "title": "the-two-ways-curriculum",
+      "description": "Professional react app built with modern technologies.",
+      "category": "Frontend",
+      "tags": [
+        "React",
+        "TypeScript"
+      ],
+      "github": "https://github.com/gaius/the-two-ways-curriculum",
+      "demo": null,
+      "image": "/projects/the-two-ways-curriculum.png",
+      "featured": false,
+      "status": "completed",
+      "year": 2025,
+      "metrics": {
+        "health_score": 90,
+        "tech_count": 2,
+        "size_mb": 0.07
+      }
+    },
+    {
+      "id": "v0-clone",
+      "title": "v0-clone",
+      "description": "Professional react app built with modern technologies.",
+      "category": "Frontend",
+      "tags": [
+        "React",
+        "Docker"
+      ],
+      "github": "https://github.com/gaius/v0-clone",
+      "demo": null,
+      "image": "/projects/v0-clone.png",
+      "featured": false,
+      "status": "completed",
+      "year": 2025,
+      "metrics": {
+        "health_score": 90,
+        "tech_count": 2,
+        "size_mb": 274.18
+      }
+    },
+    {
+      "id": "v0kimik2",
+      "title": "v0kimik2",
+      "description": "Professional react app built with modern technologies.",
+      "category": "Frontend",
+      "tags": [
+        "React",
+        "TypeScript"
+      ],
+      "github": "https://github.com/gaius/v0kimik2",
+      "demo": null,
+      "image": "/projects/v0kimik2.png",
+      "featured": false,
+      "status": "completed",
+      "year": 2025,
+      "metrics": {
+        "health_score": 90,
+        "tech_count": 2,
+        "size_mb": 87.19
+      }
+    },
+    {
+      "id": "vercel-vercel-48.8.2",
+      "title": "vercel-vercel-48.8.2",
+      "description": "Professional react app built with modern technologies.",
+      "category": "Frontend",
+      "tags": [
+        "React"
+      ],
+      "github": "https://github.com/gaius/vercel-vercel-48.8.2",
+      "demo": null,
+      "image": "/projects/vercel-vercel-48.8.2.png",
+      "featured": false,
+      "status": "completed",
+      "year": 2025,
+      "metrics": {
+        "health_score": 90,
+        "tech_count": 1,
+        "size_mb": 161.93
+      }
+    }
+  ]
+}
