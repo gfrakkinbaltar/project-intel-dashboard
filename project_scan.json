@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2025-11-14T20:16:14.209562",
+  "scanned_at": "2025-11-14T20:54:05.550032",
   "root_dir": "/home/gaius/AI-Development",
   "total_projects": 29,
   "projects": [
@@ -14,11 +14,11 @@
         "flask"
       ],
       "files": [],
-      "size": 181463504,
-      "last_modified": "2025-11-14T18:43:31.274819",
-      "has_git": false,
+      "size": 181550777,
+      "last_modified": "2025-11-14T20:51:33.981281",
+      "has_git": true,
       "has_readme": true,
-      "health_score": 80,
+      "health_score": 90,
       "package_name": "project-intel-dashboard",
       "version": "1.0.0"
     },
@@ -32,37 +32,47 @@
         "typescript"
       ],
       "files": [],
-      "size": 242585,
-      "last_modified": "2025-11-11T22:19:01.086222",
-      "has_git": false,
-      "has_readme": false,
-      "health_score": 70,
+      "size": 358217,
+      "last_modified": "2025-11-14T20:51:34.009852",
+      "has_git": true,
+      "has_readme": true,
+      "health_score": 90,
       "package_name": "my-v0-project",
       "version": "0.1.0"
     },
     {
       "name": "Qwen 480b webapps",
       "path": "/home/gaius/AI-Development/Qwen 480b webapps",
-      "type": "project",
-      "stack": [],
+      "type": "react_app",
+      "stack": [
+        "react",
+        "typescript"
+      ],
       "files": [],
-      "size": 4244367,
-      "last_modified": "2025-11-08T01:21:27.355124",
-      "has_git": false,
-      "has_readme": false,
-      "health_score": 50
+      "size": 5612598,
+      "last_modified": "2025-11-14T20:53:54.807444",
+      "has_git": true,
+      "has_readme": true,
+      "health_score": 90,
+      "package_name": "qwen-480b-webapps",
+      "version": "1.0.0"
     },
     {
       "name": "Portfolio_Showcase",
       "path": "/home/gaius/AI-Development/Portfolio_Showcase",
-      "type": "project",
-      "stack": [],
+      "type": "react_app",
+      "stack": [
+        "react",
+        "typescript"
+      ],
       "files": [],
-      "size": 15997163,
-      "last_modified": "2025-11-13T11:32:17.274920",
-      "has_git": false,
-      "has_readme": false,
-      "health_score": 50
+      "size": 31578283,
+      "last_modified": "2025-11-14T20:53:54.822445",
+      "has_git": true,
+      "has_readme": true,
+      "health_score": 90,
+      "package_name": "portfolio_showcase",
+      "version": "1.0.0"
     },
     {
       "name": "GAI7US",
@@ -87,14 +97,17 @@
       "path": "/home/gaius/AI-Development/nexus-storytelling",
       "type": "python_package",
       "stack": [
+        "react",
         "python"
       ],
       "files": [],
-      "size": 58826342,
-      "last_modified": "2025-11-08T01:34:15.229366",
-      "has_git": false,
+      "size": 58877887,
+      "last_modified": "2025-11-14T20:52:47.334806",
+      "has_git": true,
       "has_readme": true,
-      "health_score": 60
+      "health_score": 90,
+      "package_name": "nexus-storytelling",
+      "version": "1.0.0"
     },
     {
       "name": "Elite E-Commerce Platform",
@@ -106,11 +119,11 @@
         "typescript"
       ],
       "files": [],
-      "size": 1156807,
-      "last_modified": "2025-11-12T23:41:15.721085",
-      "has_git": false,
-      "has_readme": false,
-      "health_score": 70,
+      "size": 2183417,
+      "last_modified": "2025-11-14T20:51:34.894340",
+      "has_git": true,
+      "has_readme": true,
+      "health_score": 90,
       "package_name": "my-v0-project",
       "version": "0.1.0"
     },
@@ -119,28 +132,34 @@
       "path": "/home/gaius/AI-Development/missionconnect",
       "type": "react_app",
       "stack": [
-        "react"
+        "react",
+        "typescript"
       ],
       "files": [],
-      "size": 199480424,
-      "last_modified": "2025-11-08T11:09:38.428095",
-      "has_git": false,
+      "size": 199632945,
+      "last_modified": "2025-11-14T20:53:54.831445",
+      "has_git": true,
       "has_readme": true,
-      "health_score": 70,
+      "health_score": 90,
       "package_name": "1-v0-clone",
       "version": "1.0.0"
     },
     {
       "name": "GPT 120b apps",
       "path": "/home/gaius/AI-Development/GPT 120b apps",
-      "type": "project",
-      "stack": [],
+      "type": "react_app",
+      "stack": [
+        "react",
+        "typescript"
+      ],
       "files": [],
-      "size": 757460,
-      "last_modified": "2025-11-06T18:09:02.166540",
-      "has_git": false,
-      "has_readme": false,
-      "health_score": 50
+      "size": 1035093,
+      "last_modified": "2025-11-14T20:53:54.840446",
+      "has_git": true,
+      "has_readme": true,
+      "health_score": 90,
+      "package_name": "gpt-120b-apps",
+      "version": "1.0.0"
     },
     {
       "name": "saas-boilerplate",
@@ -164,26 +183,34 @@
       "path": "/home/gaius/AI-Development/Essene Calender",
       "type": "python_package",
       "stack": [
+        "react",
         "python"
       ],
       "files": [],
-      "size": 46780588,
-      "last_modified": "2025-11-11T20:53:37.531820",
-      "has_git": false,
+      "size": 92941536,
+      "last_modified": "2025-11-14T20:52:47.350807",
+      "has_git": true,
       "has_readme": true,
-      "health_score": 60
+      "health_score": 90,
+      "package_name": "essene-calender",
+      "version": "1.0.0"
     },
     {
       "name": "knowledge-graph-mvp",
       "path": "/home/gaius/AI-Development/knowledge-graph-mvp",
-      "type": "project",
-      "stack": [],
+      "type": "react_app",
+      "stack": [
+        "react",
+        "typescript"
+      ],
       "files": [],
-      "size": 21074,
-      "last_modified": "2025-11-08T06:54:16.990204",
-      "has_git": false,
-      "has_readme": false,
-      "health_score": 50
+      "size": 61633,
+      "last_modified": "2025-11-14T20:53:54.849446",
+      "has_git": true,
+      "has_readme": true,
+      "health_score": 90,
+      "package_name": "knowledge-graph-mvp",
+      "version": "1.0.0"
     },
     {
       "name": "property_management_app",
@@ -204,14 +231,19 @@
     {
       "name": "Anti-Fragile CRM",
       "path": "/home/gaius/AI-Development/Anti-Fragile CRM",
-      "type": "project",
-      "stack": [],
+      "type": "react_app",
+      "stack": [
+        "react",
+        "typescript"
+      ],
       "files": [],
-      "size": 5770803,
-      "last_modified": "2025-11-14T01:04:17.591266",
-      "has_git": false,
-      "has_readme": false,
-      "health_score": 50
+      "size": 11449765,
+      "last_modified": "2025-11-14T20:53:54.858447",
+      "has_git": true,
+      "has_readme": true,
+      "health_score": 90,
+      "package_name": "anti-fragile-crm",
+      "version": "1.0.0"
     },
     {
       "name": "self-actualization-platform",
@@ -234,14 +266,19 @@
     {
       "name": "PortfolioCraft",
       "path": "/home/gaius/AI-Development/PortfolioCraft",
-      "type": "project",
-      "stack": [],
+      "type": "react_app",
+      "stack": [
+        "react",
+        "typescript"
+      ],
       "files": [],
-      "size": 16203825,
-      "last_modified": "2025-11-14T00:00:24.987561",
-      "has_git": false,
-      "has_readme": false,
-      "health_score": 50
+      "size": 32259882,
+      "last_modified": "2025-11-14T20:53:54.867447",
+      "has_git": true,
+      "has_readme": true,
+      "health_score": 90,
+      "package_name": "portfoliocraft",
+      "version": "1.0.0"
     },
     {
       "name": "vercel-vercel-48.8.2",
@@ -262,14 +299,19 @@
     {
       "name": "nexus",
       "path": "/home/gaius/AI-Development/nexus",
-      "type": "project",
-      "stack": [],
+      "type": "react_app",
+      "stack": [
+        "react",
+        "typescript"
+      ],
       "files": [],
-      "size": 4933425,
-      "last_modified": "2025-11-14T01:05:13.292554",
-      "has_git": false,
-      "has_readme": false,
-      "health_score": 50
+      "size": 9660953,
+      "last_modified": "2025-11-14T20:53:54.877448",
+      "has_git": true,
+      "has_readme": true,
+      "health_score": 90,
+      "package_name": "nexus",
+      "version": "1.0.0"
     },
     {
       "name": "Unbranded",
@@ -281,11 +323,11 @@
         "typescript"
       ],
       "files": [],
-      "size": 690879604,
-      "last_modified": "2025-11-12T15:43:54.395770",
-      "has_git": false,
-      "has_readme": false,
-      "health_score": 70,
+      "size": 694192789,
+      "last_modified": "2025-11-14T20:51:38.002068",
+      "has_git": true,
+      "has_readme": true,
+      "health_score": 90,
       "package_name": "my-v0-project",
       "version": "0.1.0"
     },
@@ -298,11 +340,11 @@
         "docker"
       ],
       "files": [],
-      "size": 287375390,
-      "last_modified": "2025-11-10T16:46:43.658489",
-      "has_git": false,
+      "size": 287497410,
+      "last_modified": "2025-11-14T20:51:38.215079",
+      "has_git": true,
       "has_readme": true,
-      "health_score": 80,
+      "health_score": 90,
       "package_name": "v0-clone",
       "version": "1.0.0"
     },
@@ -316,11 +358,11 @@
         "typescript"
       ],
       "files": [],
-      "size": 2418252,
-      "last_modified": "2025-11-13T00:23:37.531084",
-      "has_git": false,
-      "has_readme": false,
-      "health_score": 70,
+      "size": 4684917,
+      "last_modified": "2025-11-14T20:51:38.262431",
+      "has_git": true,
+      "has_readme": true,
+      "health_score": 90,
       "package_name": "my-v0-project",
       "version": "0.1.0"
     },
@@ -334,37 +376,47 @@
         "typescript"
       ],
       "files": [],
-      "size": 902786,
-      "last_modified": "2025-11-12T17:00:19.517796",
-      "has_git": false,
-      "has_readme": false,
-      "health_score": 70,
+      "size": 1483868,
+      "last_modified": "2025-11-14T20:51:38.414612",
+      "has_git": true,
+      "has_readme": true,
+      "health_score": 90,
       "package_name": "my-v0-project",
       "version": "0.1.0"
     },
     {
       "name": "Ai-Powered Content",
       "path": "/home/gaius/AI-Development/Ai-Powered Content",
-      "type": "project",
-      "stack": [],
+      "type": "react_app",
+      "stack": [
+        "react",
+        "typescript"
+      ],
       "files": [],
-      "size": 3983385,
-      "last_modified": "2025-11-14T01:15:00.594363",
-      "has_git": false,
-      "has_readme": false,
-      "health_score": 50
+      "size": 7844522,
+      "last_modified": "2025-11-14T20:53:54.886448",
+      "has_git": true,
+      "has_readme": true,
+      "health_score": 90,
+      "package_name": "ai-powered-content",
+      "version": "1.0.0"
     },
     {
       "name": "Brand Identity",
       "path": "/home/gaius/AI-Development/Brand Identity",
-      "type": "project",
-      "stack": [],
+      "type": "react_app",
+      "stack": [
+        "react",
+        "typescript"
+      ],
       "files": [],
-      "size": 4050931,
-      "last_modified": "2025-11-13T02:33:53.434679",
-      "has_git": false,
-      "has_readme": false,
-      "health_score": 50
+      "size": 7978378,
+      "last_modified": "2025-11-14T20:53:54.896449",
+      "has_git": true,
+      "has_readme": true,
+      "health_score": 90,
+      "package_name": "brand-identity",
+      "version": "1.0.0"
     },
     {
       "name": "life-tracker",
@@ -377,61 +429,81 @@
         "tailwind"
       ],
       "files": [],
-      "size": 115837,
-      "last_modified": "2025-11-08T02:48:50.710256",
-      "has_git": false,
+      "size": 189979,
+      "last_modified": "2025-11-14T20:51:38.844113",
+      "has_git": true,
       "has_readme": true,
-      "health_score": 80,
+      "health_score": 90,
       "package_name": "life-tracker",
       "version": "1.0.0"
     },
     {
       "name": "deep_essene_calendar",
       "path": "/home/gaius/AI-Development/deep_essene_calendar",
-      "type": "project",
-      "stack": [],
+      "type": "react_app",
+      "stack": [
+        "react",
+        "typescript"
+      ],
       "files": [],
-      "size": 32238,
-      "last_modified": "2025-11-10T19:39:34.753759",
-      "has_git": false,
-      "has_readme": false,
-      "health_score": 50
+      "size": 74345,
+      "last_modified": "2025-11-14T20:53:54.906449",
+      "has_git": true,
+      "has_readme": true,
+      "health_score": 90,
+      "package_name": "deep_essene_calendar",
+      "version": "1.0.0"
     },
     {
       "name": "v0kimik2",
       "path": "/home/gaius/AI-Development/v0kimik2",
-      "type": "project",
-      "stack": [],
+      "type": "react_app",
+      "stack": [
+        "react",
+        "typescript"
+      ],
       "files": [],
-      "size": 73740592,
-      "last_modified": "2025-11-12T15:03:51.645971",
-      "has_git": false,
-      "has_readme": false,
-      "health_score": 50
+      "size": 91423749,
+      "last_modified": "2025-11-14T20:53:54.915450",
+      "has_git": true,
+      "has_readme": true,
+      "health_score": 90,
+      "package_name": "v0kimik2",
+      "version": "1.0.0"
     },
     {
       "name": "the-two-ways-curriculum",
       "path": "/home/gaius/AI-Development/the-two-ways-curriculum",
-      "type": "project",
-      "stack": [],
+      "type": "react_app",
+      "stack": [
+        "react",
+        "typescript"
+      ],
       "files": [],
-      "size": 30288,
-      "last_modified": "2025-11-09T17:19:54.950170",
-      "has_git": false,
+      "size": 71495,
+      "last_modified": "2025-11-14T20:53:54.936451",
+      "has_git": true,
       "has_readme": true,
-      "health_score": 60
+      "health_score": 90,
+      "package_name": "the-two-ways-curriculum",
+      "version": "1.0.0"
     },
     {
       "name": "pdda",
       "path": "/home/gaius/AI-Development/pdda",
-      "type": "project",
-      "stack": [],
+      "type": "react_app",
+      "stack": [
+        "react",
+        "typescript"
+      ],
       "files": [],
-      "size": 130249,
-      "last_modified": "2025-11-04T07:51:43.331757",
-      "has_git": false,
-      "has_readme": false,
-      "health_score": 50
+      "size": 211306,
+      "last_modified": "2025-11-14T20:53:54.945451",
+      "has_git": true,
+      "has_readme": true,
+      "health_score": 90,
+      "package_name": "pdda",
+      "version": "1.0.0"
     }
   ]
 }
